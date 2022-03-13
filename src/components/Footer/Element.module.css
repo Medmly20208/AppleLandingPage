@@ -1,0 +1,10 @@
+.container li {
+  list-style: none;
+  color: gray;
+  cursor: pointer;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+.container li:hover {
+  text-decoration: underline;
+}

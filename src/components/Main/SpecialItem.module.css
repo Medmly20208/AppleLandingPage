@@ -1,0 +1,38 @@
+.container {
+  color: white;
+  background-image: url("../../assets/imags/ipad.jpg");
+  background-position: left bottom;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-top: 100px;
+  align-items: flex-start;
+  text-align: center;
+}
+.container h3 {
+  color: gray;
+}
+.btn div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+}
+.btn button {
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+  color: #5699dd;
+  background-color: transparent;
+}
+.btn button:hover {
+  text-decoration: underline;
+}

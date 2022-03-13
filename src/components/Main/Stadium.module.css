@@ -1,0 +1,41 @@
+.container {
+  background-image: url("../../assets/imags/stadium.jpg");
+  background-position: bottom;
+  background-size: cover;
+  height: 400px;
+  color: white;
+  text-align: center;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+}
+.btn button {
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+  color: #5699dd;
+  background-color: transparent;
+}
+.btn button:hover {
+  text-decoration: underline;
+}
+.container h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
