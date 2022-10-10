@@ -5,6 +5,8 @@ import { ReactComponent as LogoBag } from "../../assets/icons/bag-shopping-solid
 import { ReactComponent as LogoSearch } from "../../assets/icons/magnifying-glass-solid.svg";
 import styles from "./MainHeader.module.css";
 
+import ResponsiveHeader from "./ResponsiveHeader";
+
 const MainHeader = () => {
   const list = [
     "Store",
