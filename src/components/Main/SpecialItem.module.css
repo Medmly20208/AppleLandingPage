@@ -1,5 +1,6 @@
 .container {
   color: white;
+ 
   background-image: url("../../assets/imags/ipad.jpg");
   background-position: left bottom;
   height: 600px;
@@ -9,6 +10,7 @@
   padding-top: 100px;
   align-items: flex-start;
   text-align: center;
+  margin-bottom: 30px;
 }
 .container h3 {
   color: gray;

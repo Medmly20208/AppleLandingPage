@@ -1,16 +1,9 @@
 import React from "react";
 import MainItem from "./MainItem";
 import AdjacentItems from "./AdjacentItems";
-import cmplogo from "../../assets/imags/ipad.jpg";
 import cmplogo1 from "../../assets/imags/appleblackiphone.jpg";
-import cmplogo2 from "../../assets/imags/applecard.jpg";
-import cmplogo3 from "../../assets/imags/appleiphone.jpg";
-import cmplogo4 from "../../assets/imags/applewatch.jpg";
-import cmplogo5 from "../../assets/imags/ipad.jpg";
+
 import cmplogo6 from "../../assets/imags/iphone13.jpg";
-import cmplogo7 from "../../assets/imags/macbook.jpg";
-import cmplogo8 from "../../assets/imags/macstudio.jpg";
-import cmplogo9 from "../../assets/imags/stadium.jpg";
 import classes from "./MainPage.module.css";
 import SpecialItem from "./SpecialItem";
 import LastPart from "./LastPart";

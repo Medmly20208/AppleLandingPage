@@ -6,3 +6,13 @@
   column-gap: 10px;
   row-gap: 15px;
 }
+
+
+@media screen and (max-width:900px) {
+  .container{
+  gap:20px;
+  grid-template-columns: 1fr ;
+  grid-template-rows: 1fr 1fr 1fr ;
+  }
+  
+}
