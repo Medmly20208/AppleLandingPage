@@ -1,13 +1,15 @@
 # Apple Landing Page 
 
+this a clone of apple landing page ,I built this project to develop my skills in reactjs and css.
+
 ## DEMO
 
 
 
 
+![Capture d’écran 2023-01-22 184721](https://user-images.githubusercontent.com/69359301/213931775-784c2e33-b006-42f3-8789-ec18f8aee2c4.png)
 
 
-https://user-images.githubusercontent.com/69359301/195104285-8b86a1c0-4165-4acf-9a7f-7050eb11bc2f.mp4
 
 
 
